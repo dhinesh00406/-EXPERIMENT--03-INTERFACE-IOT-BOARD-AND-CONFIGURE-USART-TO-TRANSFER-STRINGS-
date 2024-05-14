@@ -1,9 +1,6 @@
-
-###  DATE:15|03|24
-
 ###  NAME: DHINESH.P
 ###  ROLL NO :212222043001
-###  DEPARTMENT: BE CSE
+
 
 # EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
